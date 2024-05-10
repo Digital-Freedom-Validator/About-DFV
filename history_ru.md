@@ -1,4 +1,5 @@
-# История цифрового валидатора Фредома Валидатора
+# История Digital Freedom validator
 
-Валидатор ДФВ начал свою историю в 2024 году, пройдя курс в [Валидатор-Школа](https://github.com/Distributed-Validators-Synctems/Validator-School))
+Валидатор DFV начал свою историю в 2024 году, пройдя курс в [Validator-School](https://github.com/Distributed-Validators-Synctems/Validator-School) и валидирования тестовой сети [Sputnik](https://github.com/Distributed-Validators-Synctems/sputnik-app-chain-practice) <br />
+
   
