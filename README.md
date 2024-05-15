@@ -6,4 +6,4 @@
 
 ## DFV validate Testnets
 
-- [Sputnik](https://ping.pub/bitsong/staking/bitsongvaloper1j4mxy83tg08yu24u6c0uu23fvr0v0h9qwaarnh)
+
